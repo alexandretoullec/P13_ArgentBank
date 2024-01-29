@@ -1,4 +1,4 @@
-Voici un aperçu de ce dont nous avons besoin pour la phase 1 : Authentification des utilisateurs.
+phase 1 : Authentification des utilisateurs.
 
 Créer l’application web complète et responsive avec React. Comme point de départ, nous vous avons fourni le HTML statique et le CSS pour la page d'accueil, la page de connexion et la page de profil.
 Utiliser Redux pour gérer le state de l'ensemble de l'application.
