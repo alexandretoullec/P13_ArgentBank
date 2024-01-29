@@ -1,0 +1,10 @@
+.errorContainer {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  & p {
+    font-size: 10rem;
+    color: #2c3e50;
+  }
+}
